@@ -1,4 +1,4 @@
-baseURL = 'https://leihao.github.io/'
+baseURL = 'https://zleihao.github.io/'
 languageCode = 'zh-cn'
 title = '点灯大师'
 theme = 'PaperMod'
